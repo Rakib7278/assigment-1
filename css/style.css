@@ -53,12 +53,12 @@ body{
 
 .glo-bton {
     padding: 14px 30px;
-    background: #F78366;
+    background: rgba(165, 10, 226, 0.959);
     color: #fff;
     text-transform: uppercase;
     font-size: 16px;
     font-weight: 700;
-    border: 1px solid #F78366;
+    border: 1px solid rgba(165, 10, 226, 0.959);
 }
 /* mission */
 #mission{
@@ -89,7 +89,7 @@ body{
     background: aliceblue;
 }
 #vission {
-    background: #fbe1bd;
+    background: #f4bdfb;
 }
 #goals {
     background: aquamarine;
@@ -116,7 +116,7 @@ footer {
 }
 
 h2#footer-title {
-    color: #ffad5a;
+    color: rgba(165, 10, 226, 0.959);
     font-family: system-ui;
     font-style: italic;
 }
